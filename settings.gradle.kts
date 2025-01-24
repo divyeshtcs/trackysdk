@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "TrackySdk"
 include(":app")
+include(":tracky_1_0_3")
